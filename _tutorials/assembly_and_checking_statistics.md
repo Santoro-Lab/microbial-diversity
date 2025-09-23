@@ -1,7 +1,9 @@
 ---
-title: Assembly and Checking Statistics
-layout: default
+title: "Assembly and Checking Statistics"
+collection: tutorials
+permalink: /tutorials/Assembly_and_Checking_Statistics
 ---
+
 
 
 ## Overview
